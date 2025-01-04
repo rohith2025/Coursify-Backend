@@ -9,7 +9,7 @@ const PORT = 3000
 const mongoose = require("mongoose")
 const { clearScreenDown } = require("readline")
 
-mongoose.connect('mongodb+srv://yelurirohith2025:I7R5u4jzIRndZ8xr@cluster0.bycww.mongodb.net/Coursify')
+mongoose.connect('mongodb+srv:/<Username>.mongodb.net/Coursify')
 
 app.get('/',function(req,res)
 {
