@@ -1,4 +1,4 @@
-# Coded for Fun in 3 Hours Without Proper File Structure
+# Backend Application Coded for Fun in 3 Hours Without Proper File Structure
 
 ## Disclaimer
 **Every single line of this code is handwritten** by me, and the project was built in 3 hours for fun without adhering to any specific file structure.
@@ -28,4 +28,4 @@ This is a simple backend application built with **Node.js**, **Express**, and **
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/cousify-backend.git
+   git clone https://github.com/rohith2025/Coursify-Backend.git
